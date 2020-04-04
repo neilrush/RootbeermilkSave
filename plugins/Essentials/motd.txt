@@ -1,6 +1,0 @@
-&6Welcome to the offical Rootbeermilk server, {PLAYER}&6!
-
-&3  News: This server has a grave system 
-&3         Just stand on your grave and crouch jump :O
-
-&6Players online:&c {ONLINE} &6- World time:&c {WORLDTIME12}
