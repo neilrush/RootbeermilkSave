@@ -1,0 +1,21 @@
+lastAccountName: sweedishfishi
+timestamps:
+  login: 1585785700855
+  lastteleport: 1585757172859
+  logout: 1585786029338
+ipAddress: 24.255.216.27
+lastlocation:
+  world: world
+  x: 15.099074567218484
+  y: 65.0
+  z: 12.849994997494296
+  yaw: -13.878685
+  pitch: 28.581408
+logoutlocation:
+  world: world
+  x: 194.9996312241592
+  y: 71.9375
+  z: 80.2928639010204
+  yaw: -261.85455
+  pitch: 7.9168367
+afk: false

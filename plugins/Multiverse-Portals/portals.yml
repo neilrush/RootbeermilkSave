@@ -1,0 +1,21 @@
+portals:
+  increative:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: sweedishfishi
+    location: -9.0,63.0,21.0:-5.0,67.0,21.0
+    world: creative
+    destination: p:insurvival
+  insurvival:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: sweedishfishi
+    location: 54.0,62.0,-4.0:57.0,66.0,-4.0
+    world: world
+    destination: p:increative
