@@ -1,0 +1,15 @@
+# Ignore everything:
+*
+
+# Except for .gitignore
+!.gitignore
+
+# Except for any subfolder
+!*/
+
+# Your world name
+!world/**/*
+!world_nether/**/*
+!world_the_end/**/*
+!creative/**/*
+!creative_nether/**/*
