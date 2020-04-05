@@ -674,6 +674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2020-03-31 18:43:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2020-02-28 04:04:09 +0000"
@@ -792,6 +798,12 @@
       "minecraft:zombie_villager": "2020-02-20 11:10:25 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2020-03-31 18:47:45 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -1429,6 +1441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2020-03-31 18:47:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2020-02-18 04:36:39 +0000"
@@ -1443,10 +1461,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2020-03-31 19:06:24 +0000",
       "minecraft:forest": "2020-02-18 22:20:49 +0000",
       "minecraft:mountains": "2020-02-19 02:16:14 +0000",
       "minecraft:desert_hills": "2020-02-21 23:05:38 +0000",
+      "minecraft:deep_cold_ocean": "2020-03-31 19:09:30 +0000",
       "minecraft:desert": "2020-02-18 22:21:05 +0000",
+      "minecraft:deep_frozen_ocean": "2020-03-31 19:09:44 +0000",
       "minecraft:deep_lukewarm_ocean": "2020-02-28 04:00:51 +0000",
       "minecraft:beach": "2020-02-16 06:57:47 +0000",
       "minecraft:dark_forest": "2020-02-16 07:07:25 +0000",
@@ -1791,6 +1812,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2020-03-31 18:31:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-02-16 07:05:24 +0000"
@@ -1806,6 +1833,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2020-02-18 04:51:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2020-03-31 18:47:45 +0000"
     },
     "done": true
   },
@@ -2025,6 +2058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2020-03-31 18:31:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-02-16 07:20:00 +0000"
@@ -2135,6 +2174,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-02-16 07:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2020-03-31 19:06:23 +0000"
     },
     "done": true
   },
@@ -2611,6 +2656,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-02-21 23:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2020-03-31 19:11:25 +0000"
     },
     "done": true
   },
