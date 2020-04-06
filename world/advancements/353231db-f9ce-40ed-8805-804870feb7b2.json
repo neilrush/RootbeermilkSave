@@ -95,6 +95,13 @@
     },
     "done": true
   },
+  "equestrian_crafting:recipes/combat/iron_horse_armor": {
+    "criteria": {
+      "has_ingot": "2020-04-05 16:56:07 +0000",
+      "has_the_recipe": "2020-04-05 16:56:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_red_flower": "2020-03-15 15:37:37 +0000"
@@ -661,6 +668,12 @@
     },
     "done": true
   },
+  "equestrian_crafting:recipes/misc/iron_horse_armor": {
+    "criteria": {
+      "has_ingot": "2020-04-05 16:56:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_double_plant": "2020-02-28 05:21:44 +0000"
@@ -669,7 +682,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2020-04-05 00:20:02 +0000"
+      "tick": "2020-04-05 13:49:31 +0000"
     },
     "done": false
   },
@@ -2173,6 +2186,12 @@
     },
     "done": true
   },
+  "rotten_flesh_to_leather:recipes/misc/leather": {
+    "criteria": {
+      "has_flesh": "2020-04-05 13:00:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2020-03-24 06:34:06 +0000"
@@ -2608,9 +2627,10 @@
   },
   "universal_dyeing:recipes/building_blocks/universal_dyeing/wool": {
     "criteria": {
-      "has_dye": "2020-04-04 23:37:30 +0000"
+      "has_dye": "2020-04-04 23:37:30 +0000",
+      "has_block": "2020-04-05 15:31:38 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
@@ -3065,6 +3085,12 @@
     },
     "done": true
   },
+  "slabs_stairs_to_block:recipes/building_blocks/stairs/nether_bricks": {
+    "criteria": {
+      "has_stairs": "2020-04-05 17:31:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2020-03-08 07:00:23 +0000"
@@ -3452,6 +3478,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2020-02-29 05:13:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2020-04-05 02:41:27 +0000"
     },
     "done": true
   },
@@ -4394,6 +4426,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2020-03-02 00:15:07 +0000"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/slabs/nether_bricks": {
+    "criteria": {
+      "has_slab": "2020-04-05 17:31:35 +0000"
     },
     "done": true
   },

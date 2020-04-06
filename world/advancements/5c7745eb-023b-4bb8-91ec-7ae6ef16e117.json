@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "main:main/dragon_drops_elytra": {
+    "criteria": {
+      "tick": "2020-04-05 03:13:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2020-03-09 07:49:11 +0000"
@@ -62,6 +68,13 @@
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2020-03-10 23:48:54 +0000"
+    },
+    "done": true
+  },
+  "equestrian_crafting:recipes/combat/iron_horse_armor": {
+    "criteria": {
+      "has_ingot": "2020-04-05 19:50:40 +0000",
+      "has_the_recipe": "2020-04-05 19:50:40 +0000"
     },
     "done": true
   },
@@ -224,6 +237,12 @@
     },
     "done": true
   },
+  "main:main/player_head_drops": {
+    "criteria": {
+      "tick": "2020-04-05 03:13:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2020-03-09 07:49:30 +0000"
@@ -290,6 +309,12 @@
     },
     "done": true
   },
+  "slabs_stairs_to_block:recipes/building_blocks/slabs/dark_oak_planks": {
+    "criteria": {
+      "has_slab": "2020-04-05 19:46:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2020-03-12 08:20:38 +0000"
@@ -305,6 +330,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_logs": "2020-03-09 07:43:26 +0000"
+    },
+    "done": true
+  },
+  "main:main/root": {
+    "criteria": {
+      "tick": "2020-04-05 03:13:02 +0000"
     },
     "done": true
   },
@@ -329,6 +360,13 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2020-03-16 08:02:22 +0000"
+    },
+    "done": true
+  },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/bed": {
+    "criteria": {
+      "has_dye": "2020-04-05 03:13:02 +0000",
+      "has_block": "2020-04-05 20:00:34 +0000"
     },
     "done": true
   },
@@ -433,6 +471,18 @@
       "has_andesite": "2020-03-09 23:34:30 +0000"
     },
     "done": true
+  },
+  "equestrian_crafting:recipes/misc/iron_horse_armor": {
+    "criteria": {
+      "has_ingot": "2020-04-05 19:50:40 +0000"
+    },
+    "done": true
+  },
+  "multiplayer_sleep:sleep": {
+    "criteria": {
+      "tick": "2020-04-05 03:13:02 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
@@ -548,6 +598,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2020-04-05 19:56:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2020-03-09 07:42:59 +0000"
@@ -560,6 +616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2020-04-05 19:51:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2020-03-09 07:47:22 +0000"
@@ -569,6 +631,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2020-03-20 07:32:51 +0000"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/stairs/dark_oak_planks": {
+    "criteria": {
+      "has_stairs": "2020-04-05 19:44:00 +0000"
     },
     "done": true
   },
@@ -938,6 +1006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_the_recipe": "2020-04-05 19:51:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2020-03-10 23:55:33 +0000"
@@ -1058,6 +1132,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2020-04-05 19:56:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-03-10 22:48:10 +0000"
@@ -1103,6 +1183,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_string": "2020-03-10 22:48:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-04-05 19:51:26 +0000"
     },
     "done": true
   },
@@ -1201,6 +1287,12 @@
       "minecraft:zombie": "2020-03-09 07:52:31 +0000"
     },
     "done": true
+  },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/glazed_terracotta": {
+    "criteria": {
+      "has_dye": "2020-04-05 03:13:02 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
@@ -1331,6 +1423,12 @@
     },
     "done": true
   },
+  "main:main/player_graves": {
+    "criteria": {
+      "tick": "2020-04-05 03:13:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2020-03-09 23:46:01 +0000"
@@ -1373,6 +1471,12 @@
     },
     "done": true
   },
+  "main:main/dp": {
+    "criteria": {
+      "tick": "2020-04-05 03:13:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2020-03-10 23:47:13 +0000"
@@ -1396,6 +1500,12 @@
       "has_diamond": "2020-03-09 08:15:15 +0000"
     },
     "done": true
+  },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/stained_glass_pane": {
+    "criteria": {
+      "has_dye": "2020-04-05 03:13:02 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
@@ -1442,6 +1552,12 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2020-03-11 08:23:10 +0000"
+    },
+    "done": true
+  },
+  "rotten_flesh_to_leather:recipes/misc/leather": {
+    "criteria": {
+      "has_flesh": "2020-04-05 03:13:02 +0000"
     },
     "done": true
   },
@@ -1535,6 +1651,12 @@
     },
     "done": true
   },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/stained_glass": {
+    "criteria": {
+      "has_dye": "2020-04-05 03:13:02 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2020-03-11 08:04:40 +0000"
@@ -1592,6 +1714,12 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2020-03-20 06:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-04-05 19:51:26 +0000"
     },
     "done": true
   },
@@ -1709,6 +1837,13 @@
     },
     "done": true
   },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/wool": {
+    "criteria": {
+      "has_dye": "2020-04-05 03:13:02 +0000",
+      "has_block": "2020-04-05 19:56:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-03-09 07:42:59 +0000"
@@ -1823,6 +1958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2020-04-05 19:51:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-09 08:07:33 +0000"
@@ -1862,6 +2003,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-09 08:14:34 +0000"
+    },
+    "done": true
+  },
+  "equestrian_crafting:recipes/combat/golden_horse_armor": {
+    "criteria": {
+      "has_ingot": "2020-04-05 20:16:56 +0000"
     },
     "done": true
   },
@@ -2127,6 +2274,13 @@
     },
     "done": true
   },
+  "equestrian_crafting:recipes/misc/golden_horse_armor": {
+    "criteria": {
+      "has_ingot": "2020-04-05 20:16:56 +0000",
+      "has_the_recipe": "2020-04-05 20:16:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2020-03-09 08:15:19 +0000"
@@ -2223,6 +2377,12 @@
     },
     "done": true
   },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/terracotta": {
+    "criteria": {
+      "has_dye": "2020-04-05 03:13:02 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2020-03-11 04:31:32 +0000"
@@ -2253,9 +2413,21 @@
     },
     "done": true
   },
+  "main:main/multiplayer_sleep": {
+    "criteria": {
+      "tick": "2020-04-05 03:13:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_pink_dye": "2020-03-09 08:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2020-04-05 19:51:26 +0000"
     },
     "done": true
   },
@@ -2340,6 +2512,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-09 08:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2020-04-05 19:51:26 +0000"
     },
     "done": true
   },
@@ -2463,6 +2641,12 @@
     },
     "done": true
   },
+  "main:main/villager_death": {
+    "criteria": {
+      "tick": "2020-04-05 03:13:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2020-03-09 23:16:16 +0000"
@@ -2532,6 +2716,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-09 08:14:34 +0000"
+    },
+    "done": true
+  },
+  "main:main/mmh": {
+    "criteria": {
+      "tick": "2020-04-05 03:13:02 +0000"
     },
     "done": true
   },
@@ -2616,6 +2806,13 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2020-03-09 23:13:25 +0000"
+    },
+    "done": true
+  },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/concrete_powder": {
+    "criteria": {
+      "has_dye": "2020-04-05 03:13:02 +0000",
+      "has_block": "2020-04-05 20:36:03 +0000"
     },
     "done": true
   },
@@ -2721,6 +2918,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2020-04-05 19:56:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2020-03-13 02:24:43 +0000"
@@ -2754,6 +2957,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2020-03-11 01:27:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2020-04-05 19:51:26 +0000"
     },
     "done": true
   },
@@ -2811,6 +3020,12 @@
     },
     "done": true
   },
+  "main:main/double_shulkers": {
+    "criteria": {
+      "tick": "2020-04-05 03:13:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-03-09 07:54:27 +0000"
@@ -2820,6 +3035,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2020-03-11 00:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-04-05 19:51:26 +0000"
     },
     "done": true
   },
@@ -2843,8 +3064,11 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "textures/entity/cat/black.png": "2020-04-05 22:02:37 +0000",
       "textures/entity/cat/siamese.png": "2020-03-16 00:34:26 +0000",
-      "textures/entity/cat/persian.png": "2020-03-16 19:59:58 +0000"
+      "textures/entity/cat/ragdoll.png": "2020-04-05 21:05:30 +0000",
+      "textures/entity/cat/persian.png": "2020-03-16 19:59:58 +0000",
+      "textures/entity/cat/red.png": "2020-04-05 21:25:41 +0000"
     },
     "done": false
   },
