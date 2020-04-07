@@ -562,7 +562,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2020-04-05 19:10:23 +0000"
+      "tick": "2020-04-06 21:22:30 +0000"
     },
     "done": false
   },
@@ -1190,6 +1190,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2020-03-02 04:12:23 +0000"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/slabs/smooth_stone": {
+    "criteria": {
+      "has_slab": "2020-04-06 20:55:40 +0000"
     },
     "done": true
   },
@@ -2220,6 +2226,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2020-03-07 08:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2020-04-06 21:02:22 +0000"
     },
     "done": true
   },
@@ -3354,6 +3366,12 @@
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2020-02-22 13:17:40 +0000"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/slabs/stone": {
+    "criteria": {
+      "has_slab": "2020-04-06 20:55:43 +0000"
     },
     "done": true
   },

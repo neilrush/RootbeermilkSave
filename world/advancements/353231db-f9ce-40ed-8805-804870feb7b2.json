@@ -478,9 +478,10 @@
   },
   "universal_dyeing:recipes/building_blocks/universal_dyeing/bed": {
     "criteria": {
-      "has_dye": "2020-04-04 23:37:30 +0000"
+      "has_dye": "2020-04-04 23:37:30 +0000",
+      "has_block": "2020-04-06 19:47:52 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/shield": {
     "criteria": {
@@ -682,7 +683,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2020-04-05 13:49:31 +0000"
+      "tick": "2020-04-06 21:22:30 +0000"
     },
     "done": false
   },
@@ -4047,9 +4048,10 @@
   },
   "universal_dyeing:recipes/building_blocks/universal_dyeing/concrete_powder": {
     "criteria": {
-      "has_dye": "2020-04-04 23:37:30 +0000"
+      "has_dye": "2020-04-04 23:37:30 +0000",
+      "has_block": "2020-04-06 19:50:48 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/form_obsidian": {
     "criteria": {

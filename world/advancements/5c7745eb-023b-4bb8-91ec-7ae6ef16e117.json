@@ -480,7 +480,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2020-04-05 03:13:02 +0000"
+      "tick": "2020-04-06 20:38:38 +0000"
     },
     "done": false
   },
@@ -511,6 +511,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2020-03-10 23:31:39 +0000"
+    },
+    "done": true
+  },
+  "craftable_ink_sacs:recipes/misc/ink_sac": {
+    "criteria": {
+      "has_coal": "2020-04-06 19:56:49 +0000"
     },
     "done": true
   },
@@ -901,6 +907,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-03-16 07:48:03 +0000"
+    },
+    "done": true
+  },
+  "equestrian_crafting:recipes/combat/diamond_horse_armor": {
+    "criteria": {
+      "has_ingot": "2020-04-06 19:59:32 +0000"
     },
     "done": true
   },
@@ -1910,6 +1922,13 @@
     },
     "done": true
   },
+  "equestrian_crafting:recipes/misc/diamond_horse_armor": {
+    "criteria": {
+      "has_ingot": "2020-04-06 19:59:32 +0000",
+      "has_the_recipe": "2020-04-06 19:59:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2020-03-13 00:35:07 +0000",
@@ -1918,6 +1937,7 @@
       "potato": "2020-03-14 02:26:01 +0000",
       "bread": "2020-03-10 23:02:52 +0000",
       "cooked_chicken": "2020-03-11 22:49:01 +0000",
+      "cod": "2020-04-06 19:23:39 +0000",
       "carrot": "2020-03-09 08:00:01 +0000"
     },
     "done": false
@@ -3064,6 +3084,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "textures/entity/cat/white.png": "2020-04-06 19:20:37 +0000",
       "textures/entity/cat/black.png": "2020-04-05 22:02:37 +0000",
       "textures/entity/cat/siamese.png": "2020-03-16 00:34:26 +0000",
       "textures/entity/cat/ragdoll.png": "2020-04-05 21:05:30 +0000",

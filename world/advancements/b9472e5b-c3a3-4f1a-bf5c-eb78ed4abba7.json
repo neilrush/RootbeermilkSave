@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "main:main/dragon_drops_elytra": {
+    "criteria": {
+      "tick": "2020-04-06 20:13:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2020-02-16 07:05:24 +0000"
@@ -80,6 +86,13 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone": {
     "criteria": {
       "has_vine": "2020-02-27 08:58:07 +0000"
+    },
+    "done": true
+  },
+  "equestrian_crafting:recipes/combat/iron_horse_armor": {
+    "criteria": {
+      "has_saddle": "2020-04-06 21:17:19 +0000",
+      "has_the_recipe": "2020-04-06 21:17:19 +0000"
     },
     "done": true
   },
@@ -242,6 +255,12 @@
     },
     "done": true
   },
+  "main:main/player_head_drops": {
+    "criteria": {
+      "tick": "2020-04-06 20:13:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2020-02-16 07:05:17 +0000"
@@ -362,6 +381,12 @@
     },
     "done": true
   },
+  "main:main/root": {
+    "criteria": {
+      "tick": "2020-04-06 20:13:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2020-03-17 05:30:30 +0000"
@@ -403,6 +428,12 @@
       "has_nether_wart": "2020-03-15 06:55:48 +0000"
     },
     "done": true
+  },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/bed": {
+    "criteria": {
+      "has_dye": "2020-04-06 20:36:32 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/shield": {
     "criteria": {
@@ -565,6 +596,18 @@
       "has_andesite": "2020-02-16 07:31:10 +0000"
     },
     "done": true
+  },
+  "equestrian_crafting:recipes/misc/iron_horse_armor": {
+    "criteria": {
+      "has_saddle": "2020-04-06 21:17:19 +0000"
+    },
+    "done": true
+  },
+  "multiplayer_sleep:sleep": {
+    "criteria": {
+      "tick": "2020-04-06 21:22:30 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
@@ -1021,6 +1064,12 @@
     },
     "done": true
   },
+  "equestrian_crafting:recipes/combat/diamond_horse_armor": {
+    "criteria": {
+      "has_saddle": "2020-04-06 21:17:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2020-02-19 09:01:06 +0000"
@@ -1423,6 +1472,12 @@
     },
     "done": true
   },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/glazed_terracotta": {
+    "criteria": {
+      "has_dye": "2020-04-06 20:36:32 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2020-02-16 08:08:11 +0000"
@@ -1560,6 +1615,12 @@
     },
     "done": true
   },
+  "main:main/player_graves": {
+    "criteria": {
+      "tick": "2020-04-06 20:13:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2020-02-17 07:10:05 +0000"
@@ -1599,6 +1660,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-02-16 07:05:24 +0000"
+    },
+    "done": true
+  },
+  "main:main/dp": {
+    "criteria": {
+      "tick": "2020-04-06 20:13:18 +0000"
     },
     "done": true
   },
@@ -1643,6 +1710,12 @@
       "has_diamond": "2020-02-16 07:42:46 +0000"
     },
     "done": true
+  },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/stained_glass_pane": {
+    "criteria": {
+      "has_dye": "2020-04-06 20:36:32 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
@@ -1854,6 +1927,12 @@
     },
     "done": true
   },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/stained_glass": {
+    "criteria": {
+      "has_dye": "2020-04-06 20:36:32 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2020-02-18 04:51:05 +0000"
@@ -2064,6 +2143,12 @@
     },
     "done": true
   },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/wool": {
+    "criteria": {
+      "has_dye": "2020-04-06 20:36:32 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-02-16 07:20:00 +0000"
@@ -2133,6 +2218,13 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2020-02-16 08:08:11 +0000"
+    },
+    "done": true
+  },
+  "equestrian_crafting:recipes/misc/diamond_horse_armor": {
+    "criteria": {
+      "has_saddle": "2020-04-06 21:17:19 +0000",
+      "has_the_recipe": "2020-04-06 21:17:19 +0000"
     },
     "done": true
   },
@@ -2270,6 +2362,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2020-02-18 05:18:06 +0000"
+    },
+    "done": true
+  },
+  "equestrian_crafting:recipes/combat/golden_horse_armor": {
+    "criteria": {
+      "has_saddle": "2020-04-06 21:17:19 +0000"
     },
     "done": true
   },
@@ -2569,9 +2667,22 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2020-04-06 20:55:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2020-02-20 04:18:35 +0000"
+    },
+    "done": true
+  },
+  "equestrian_crafting:recipes/misc/golden_horse_armor": {
+    "criteria": {
+      "has_saddle": "2020-04-06 21:17:19 +0000",
+      "has_the_recipe": "2020-04-06 21:17:19 +0000"
     },
     "done": true
   },
@@ -2677,6 +2788,12 @@
     },
     "done": true
   },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/terracotta": {
+    "criteria": {
+      "has_dye": "2020-04-06 20:36:32 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2020-02-18 23:15:46 +0000"
@@ -2710,6 +2827,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2020-02-24 09:22:42 +0000"
+    },
+    "done": true
+  },
+  "main:main/multiplayer_sleep": {
+    "criteria": {
+      "tick": "2020-04-06 20:13:18 +0000"
     },
     "done": true
   },
@@ -2983,6 +3106,12 @@
     },
     "done": true
   },
+  "main:main/villager_death": {
+    "criteria": {
+      "tick": "2020-04-06 20:13:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-02-16 07:31:10 +0000"
@@ -3052,6 +3181,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2020-02-18 05:18:06 +0000"
+    },
+    "done": true
+  },
+  "main:main/mmh": {
+    "criteria": {
+      "tick": "2020-04-06 20:13:18 +0000"
     },
     "done": true
   },
@@ -3192,6 +3327,12 @@
       "has_coal_block": "2020-02-22 06:08:42 +0000"
     },
     "done": true
+  },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/concrete_powder": {
+    "criteria": {
+      "has_dye": "2020-04-06 20:36:32 +0000"
+    },
+    "done": false
   },
   "minecraft:story/form_obsidian": {
     "criteria": {
@@ -3448,6 +3589,12 @@
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2020-03-17 04:49:18 +0000"
+    },
+    "done": true
+  },
+  "main:main/double_shulkers": {
+    "criteria": {
+      "tick": "2020-04-06 20:13:18 +0000"
     },
     "done": true
   },
