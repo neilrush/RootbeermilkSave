@@ -683,7 +683,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2020-04-06 21:22:30 +0000"
+      "tick": "2020-04-07 18:16:02 +0000"
     },
     "done": false
   },
@@ -720,6 +720,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2020-02-29 06:33:30 +0000"
+    },
+    "done": true
+  },
+  "craftable_ink_sacs:recipes/misc/ink_sac": {
+    "criteria": {
+      "has_coal": "2020-04-07 20:17:58 +0000"
     },
     "done": true
   },
@@ -906,6 +912,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_slab": {
     "criteria": {
       "has_end_stone_bricks": "2020-03-17 06:41:51 +0000"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/stairs/dark_oak_planks": {
+    "criteria": {
+      "has_stairs": "2020-04-07 17:15:33 +0000"
     },
     "done": true
   },
@@ -1255,6 +1267,12 @@
     },
     "done": true
   },
+  "equestrian_crafting:recipes/combat/diamond_horse_armor": {
+    "criteria": {
+      "has_ingot": "2020-04-08 00:49:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2020-02-28 07:09:24 +0000"
@@ -1360,6 +1378,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-02-29 02:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2020-04-07 20:48:50 +0000"
     },
     "done": true
   },
@@ -2087,9 +2111,10 @@
   },
   "universal_dyeing:recipes/building_blocks/universal_dyeing/stained_glass_pane": {
     "criteria": {
-      "has_dye": "2020-04-04 23:37:30 +0000"
+      "has_dye": "2020-04-04 23:37:30 +0000",
+      "has_block": "2020-04-07 23:05:56 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
     "criteria": {
@@ -2633,6 +2658,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2020-04-07 21:35:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2020-03-31 18:44:07 +0000"
@@ -2672,6 +2703,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2020-03-08 07:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-04-07 20:38:41 +0000"
     },
     "done": true
   },
@@ -2720,6 +2757,13 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2020-03-02 00:15:07 +0000"
+    },
+    "done": true
+  },
+  "equestrian_crafting:recipes/misc/diamond_horse_armor": {
+    "criteria": {
+      "has_ingot": "2020-04-08 00:49:27 +0000",
+      "has_the_recipe": "2020-04-08 00:49:27 +0000"
     },
     "done": true
   },
@@ -2901,6 +2945,12 @@
   "minecraft:recipes/building_blocks/prismarine_brick_slab": {
     "criteria": {
       "has_prismarine_bricks": "2020-03-31 04:57:30 +0000"
+    },
+    "done": true
+  },
+  "equestrian_crafting:recipes/combat/golden_horse_armor": {
+    "criteria": {
+      "has_ingot": "2020-04-08 00:49:08 +0000"
     },
     "done": true
   },
@@ -3092,6 +3142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2020-04-07 20:39:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2020-03-08 07:00:23 +0000"
@@ -3251,6 +3307,13 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2020-03-02 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "equestrian_crafting:recipes/misc/golden_horse_armor": {
+    "criteria": {
+      "has_ingot": "2020-04-08 00:49:08 +0000",
+      "has_the_recipe": "2020-04-08 00:49:08 +0000"
     },
     "done": true
   },
