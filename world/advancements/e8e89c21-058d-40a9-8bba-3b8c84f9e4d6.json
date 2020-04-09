@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/stained_glass": {
+    "criteria": {
+      "has_dye": "2020-04-08 04:18:46 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2020-04-05 19:56:59 +0000"
@@ -29,9 +35,34 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-04-08 04:19:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2020-04-05 20:09:01 +0000"
+    },
+    "done": true
+  },
+  "equestrian_crafting:recipes/combat/iron_horse_armor": {
+    "criteria": {
+      "has_ingot": "2020-04-08 04:18:46 +0000",
+      "has_the_recipe": "2020-04-08 04:18:46 +0000"
     },
     "done": true
   },
@@ -44,6 +75,12 @@
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2020-04-05 19:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2020-04-08 04:18:46 +0000"
     },
     "done": true
   },
@@ -65,6 +102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2020-04-05 18:43:59 +0000"
@@ -83,6 +126,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2020-04-05 19:56:22 +0000"
@@ -95,9 +144,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2020-04-05 18:27:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2020-04-08 04:18:46 +0000"
     },
     "done": true
   },
@@ -137,6 +198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2020-04-05 19:58:45 +0000"
@@ -149,6 +216,12 @@
     },
     "done": true
   },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/wool": {
+    "criteria": {
+      "has_dye": "2020-04-08 04:18:46 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-04-03 22:21:59 +0000"
@@ -158,6 +231,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2020-04-05 19:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-08 04:18:46 +0000"
     },
     "done": true
   },
@@ -185,6 +264,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2020-04-05 19:56:59 +0000"
@@ -203,10 +288,34 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-04-08 04:19:56 +0000"
+    },
+    "done": true
+  },
   "equestrian_crafting:recipes/misc/diamond_horse_armor": {
     "criteria": {
       "has_ingot": "2020-04-05 19:56:22 +0000",
       "has_the_recipe": "2020-04-05 19:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-08 04:18:46 +0000"
     },
     "done": true
   },
@@ -218,6 +327,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2020-04-08 04:22:49 +0000",
       "cooked_chicken": "2020-04-05 18:35:06 +0000"
     },
     "done": false
@@ -225,6 +335,12 @@
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_terracotta": "2020-04-05 19:56:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2020-04-08 04:18:46 +0000"
     },
     "done": true
   },
@@ -246,9 +362,39 @@
     },
     "done": true
   },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/bed": {
+    "criteria": {
+      "has_dye": "2020-04-08 04:18:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-04-05 20:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2020-04-08 04:18:46 +0000"
     },
     "done": true
   },
@@ -258,9 +404,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2020-04-05 19:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2020-04-08 04:18:46 +0000"
     },
     "done": true
   },
@@ -312,6 +470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2020-04-05 19:56:59 +0000"
@@ -323,6 +487,12 @@
       "has_planks": "2020-04-05 19:58:45 +0000"
     },
     "done": true
+  },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/concrete_powder": {
+    "criteria": {
+      "has_dye": "2020-04-08 04:18:46 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
@@ -342,6 +512,25 @@
     },
     "done": true
   },
+  "equestrian_crafting:recipes/combat/golden_horse_armor": {
+    "criteria": {
+      "has_ingot": "2020-04-08 04:18:46 +0000",
+      "has_the_recipe": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2020-04-05 20:09:01 +0000"
@@ -351,6 +540,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2020-04-05 20:13:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2020-04-08 04:19:56 +0000"
     },
     "done": true
   },
@@ -372,17 +567,47 @@
     },
     "done": true
   },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/glazed_terracotta": {
+    "criteria": {
+      "has_dye": "2020-04-08 04:18:46 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2020-04-05 20:13:39 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
+  "equestrian_crafting:recipes/misc/iron_horse_armor": {
+    "criteria": {
+      "has_ingot": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2020-04-05 18:25:23 +0000"
+      "tick": "2020-04-08 04:23:02 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
@@ -402,6 +627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2020-04-05 19:56:59 +0000"
@@ -413,6 +644,8 @@
       "minecraft:forest": "2020-04-05 19:52:00 +0000",
       "minecraft:mountains": "2020-04-05 19:52:01 +0000",
       "minecraft:badlands_plateau": "2020-04-05 19:55:29 +0000",
+      "minecraft:taiga": "2020-04-08 04:22:16 +0000",
+      "minecraft:taiga_hills": "2020-04-08 04:22:26 +0000",
       "minecraft:jungle": "2020-04-05 18:42:27 +0000",
       "minecraft:birch_forest": "2020-04-05 19:51:23 +0000",
       "minecraft:jungle_hills": "2020-04-05 18:43:46 +0000",
@@ -422,6 +655,8 @@
       "minecraft:river": "2020-04-05 18:30:01 +0000",
       "minecraft:lukewarm_ocean": "2020-04-05 19:53:30 +0000",
       "minecraft:birch_forest_hills": "2020-04-05 19:51:31 +0000",
+      "minecraft:wooded_hills": "2020-04-08 04:21:04 +0000",
+      "minecraft:stone_shore": "2020-04-08 04:21:17 +0000",
       "minecraft:wooded_badlands_plateau": "2020-04-05 20:04:36 +0000",
       "minecraft:swamp": "2020-04-05 19:51:15 +0000",
       "minecraft:plains": "2020-04-03 22:21:18 +0000"
@@ -431,6 +666,12 @@
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2020-04-05 19:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2020-04-08 04:18:46 +0000"
     },
     "done": true
   },
@@ -446,9 +687,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2020-04-08 04:19:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2020-04-08 04:23:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2020-04-05 20:14:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2020-04-08 04:18:46 +0000"
     },
     "done": true
   },
@@ -467,6 +726,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2020-04-03 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-08 04:18:46 +0000"
     },
     "done": true
   },
@@ -491,6 +756,30 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2020-04-03 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2020-04-08 04:18:46 +0000"
     },
     "done": true
   },
@@ -524,11 +813,29 @@
     },
     "done": true
   },
+  "equestrian_crafting:recipes/misc/golden_horse_armor": {
+    "criteria": {
+      "has_ingot": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2020-04-05 19:56:22 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/stained_glass_pane": {
+    "criteria": {
+      "has_dye": "2020-04-08 04:18:46 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/clock": {
     "criteria": {
@@ -591,6 +898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2020-04-05 20:00:09 +0000"
@@ -623,13 +936,27 @@
   },
   "universal_dyeing:recipes/building_blocks/universal_dyeing/terracotta": {
     "criteria": {
+      "has_dye": "2020-04-08 04:18:46 +0000",
       "has_block": "2020-04-05 20:00:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2020-04-05 19:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_nugget": "2020-04-08 04:18:46 +0000",
+      "has_iron_ingot": "2020-04-08 04:18:46 +0000"
     },
     "done": true
   },
@@ -663,6 +990,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2020-04-05 19:58:45 +0000"
@@ -693,6 +1026,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2020-04-05 20:13:39 +0000"
@@ -711,6 +1050,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2020-04-08 04:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2020-04-05 18:43:59 +0000"
@@ -726,6 +1071,12 @@
   "equestrian_crafting:recipes/combat/diamond_horse_armor": {
     "criteria": {
       "has_ingot": "2020-04-05 19:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-08 04:18:46 +0000"
     },
     "done": true
   },

@@ -683,7 +683,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2020-04-07 18:16:02 +0000"
+      "tick": "2020-04-08 20:34:52 +0000"
     },
     "done": false
   },
@@ -2691,6 +2691,12 @@
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2020-03-14 13:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2020-04-08 01:09:55 +0000"
     },
     "done": true
   },
