@@ -156,9 +156,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-09 01:18:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-05 02:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2020-04-09 01:15:58 +0000"
     },
     "done": true
   },
@@ -207,6 +219,19 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2020-04-05 01:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-09 01:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2020-04-09 01:17:20 +0000",
+      "diamond_chestplate": "2020-04-09 01:17:20 +0000"
     },
     "done": true
   },
@@ -379,6 +404,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-09 01:18:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-04-05 01:16:08 +0000"
@@ -426,6 +457,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-04-05 02:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2020-04-09 01:24:32 +0000"
     },
     "done": true
   },
@@ -513,6 +550,19 @@
     },
     "done": true
   },
+  "equestrian_crafting:recipes/combat/golden_horse_armor": {
+    "criteria": {
+      "has_ingot": "2020-04-09 01:18:39 +0000",
+      "has_the_recipe": "2020-04-09 01:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2020-04-09 01:15:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2020-04-05 02:26:49 +0000"
@@ -522,6 +572,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2020-04-05 01:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-09 01:18:39 +0000"
     },
     "done": true
   },
@@ -597,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2020-04-09 01:16:07 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2020-04-05 01:16:08 +0000"
@@ -626,6 +688,12 @@
       "tick": "2020-04-05 03:00:22 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-09 01:18:39 +0000"
+    },
+    "done": true
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
@@ -768,6 +836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-09 01:18:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2020-04-05 01:13:25 +0000"
@@ -840,6 +914,12 @@
     },
     "done": true
   },
+  "equestrian_crafting:recipes/misc/golden_horse_armor": {
+    "criteria": {
+      "has_ingot": "2020-04-09 01:18:39 +0000"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/stairs/dark_oak_planks": {
     "criteria": {
       "has_stairs": "2020-04-05 02:24:00 +0000"
@@ -905,7 +985,9 @@
       "minecraft:skeleton": "2020-04-05 01:19:02 +0000",
       "minecraft:spider": "2020-04-05 01:37:59 +0000",
       "minecraft:creeper": "2020-04-05 01:54:43 +0000",
-      "minecraft:zombie": "2020-04-05 01:54:35 +0000"
+      "minecraft:zombie": "2020-04-05 01:54:35 +0000",
+      "minecraft:drowned": "2020-04-09 01:03:44 +0000",
+      "minecraft:zombie_villager": "2020-04-09 01:00:08 +0000"
     },
     "done": false
   },
@@ -1090,6 +1172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2020-04-09 01:24:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2020-04-09 00:45:20 +0000"
@@ -1163,6 +1251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-09 01:18:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2020-04-05 01:13:28 +0000"
@@ -1178,6 +1272,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-04-05 03:41:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-09 01:18:39 +0000"
     },
     "done": true
   },
@@ -1325,6 +1425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-09 01:18:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2020-04-05 01:13:28 +0000"
@@ -1385,6 +1491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-09 01:18:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-04-05 01:16:08 +0000"
@@ -1400,6 +1512,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2020-04-05 20:32:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-09 01:18:39 +0000"
     },
     "done": true
   },
@@ -1578,6 +1696,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-09 01:18:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2020-04-05 02:05:35 +0000"
@@ -1683,6 +1807,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2020-04-05 03:41:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2020-04-09 01:16:00 +0000"
     },
     "done": true
   },
@@ -1794,6 +1924,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2020-04-09 01:24:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-04-05 01:41:31 +0000"
@@ -1812,9 +1948,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2020-04-09 01:16:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2020-04-05 03:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-09 01:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2020-04-09 01:24:32 +0000"
     },
     "done": true
   },

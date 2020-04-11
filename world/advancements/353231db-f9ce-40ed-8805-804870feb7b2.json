@@ -272,6 +272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2020-04-10 23:58:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2020-02-28 03:37:36 +0000"
@@ -683,7 +689,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2020-04-08 20:34:52 +0000"
+      "tick": "2020-04-10 21:06:23 +0000"
     },
     "done": false
   },
@@ -921,6 +927,12 @@
     },
     "done": true
   },
+  "slabs_stairs_to_block:recipes/building_blocks/stairs/quartz_block": {
+    "criteria": {
+      "has_stairs": "2020-04-09 22:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-02-28 03:50:22 +0000"
@@ -963,6 +975,7 @@
       "minecraft:blaze": "2020-03-12 18:36:39 +0000",
       "minecraft:skeleton": "2020-02-29 00:03:08 +0000",
       "minecraft:zombie_pigman": "2020-03-02 08:14:00 +0000",
+      "minecraft:ravager": "2020-04-10 20:48:31 +0000",
       "minecraft:ghast": "2020-03-18 21:40:31 +0000",
       "minecraft:guardian": "2020-03-31 01:42:18 +0000",
       "minecraft:vindicator": "2020-03-15 05:32:07 +0000",
@@ -1453,6 +1466,12 @@
     },
     "done": true
   },
+  "slabs_stairs_to_block:recipes/building_blocks/slabs/smooth_stone": {
+    "criteria": {
+      "has_slab": "2020-04-09 02:10:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2020-03-24 01:46:19 +0000"
@@ -1693,6 +1712,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2020-04-10 21:00:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2020-02-28 03:48:52 +0000"
@@ -1898,6 +1923,7 @@
       "minecraft:wooded_hills": "2020-02-28 03:30:41 +0000",
       "minecraft:stone_shore": "2020-03-02 06:29:24 +0000",
       "minecraft:mushroom_field_shore": "2020-03-15 23:32:54 +0000",
+      "minecraft:wooded_badlands_plateau": "2020-04-10 23:35:34 +0000",
       "minecraft:swamp": "2020-02-28 06:18:56 +0000",
       "minecraft:snowy_taiga_hills": "2020-04-03 15:49:43 +0000",
       "minecraft:savanna": "2020-02-28 04:44:22 +0000",
@@ -2408,6 +2434,12 @@
   "minecraft:recipes/decorations/green_bed": {
     "criteria": {
       "has_green_wool": "2020-04-02 21:56:43 +0000"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/stairs/prismarine_bricks": {
+    "criteria": {
+      "has_stairs": "2020-04-09 22:17:57 +0000"
     },
     "done": true
   },
