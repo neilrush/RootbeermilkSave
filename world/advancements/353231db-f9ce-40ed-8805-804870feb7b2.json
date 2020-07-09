@@ -444,6 +444,7 @@
       "honey_bottle": "2020-07-06 02:07:38 +0000",
       "cooked_mutton": "2020-07-06 01:42:01 +0000",
       "porkchop": "2020-07-06 01:11:17 +0000",
+      "golden_carrot": "2020-07-08 06:05:05 +0000",
       "carrot": "2020-07-07 05:48:30 +0000"
     },
     "done": false
@@ -687,7 +688,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2020-07-07 07:12:59 +0000"
+      "tick": "2020-07-08 06:16:41 +0000"
     },
     "done": false
   },
@@ -1831,6 +1832,7 @@
       "minecraft:dark_forest": "2020-07-05 11:45:56 +0000",
       "minecraft:river": "2020-07-07 08:10:58 +0000",
       "minecraft:wooded_mountains": "2020-07-05 11:47:05 +0000",
+      "minecraft:wooded_hills": "2020-07-08 06:00:17 +0000",
       "minecraft:swamp": "2020-07-05 11:47:14 +0000",
       "minecraft:savanna": "2020-07-05 11:49:35 +0000",
       "minecraft:plains": "2020-07-05 11:44:46 +0000"
@@ -1906,12 +1908,6 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2020-07-06 00:43:11 +0000"
-    },
-    "done": true
-  },
-  "main:main/player_graves": {
-    "criteria": {
-      "tick": "2020-07-06 01:45:08 +0000"
     },
     "done": true
   },
